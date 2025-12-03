@@ -1,4 +1,3 @@
-
 module GCD_DP (clk, reset, INPUT_X, INPUT_Y, IN_X, IN_Y, LOAD_X, LOAD_Y, XY, OUT_DP, XEQY, XGTY, OUTPUT);
 	input wire clk, reset, IN_X, IN_Y, LOAD_X, LOAD_Y, XY, OUT_DP;
 	input wire [7:0] INPUT_X, INPUT_Y;
